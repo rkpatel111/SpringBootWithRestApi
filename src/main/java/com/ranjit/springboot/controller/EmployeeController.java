@@ -18,6 +18,7 @@ import com.ranjit.springboot.serviceimpl.EmployeServiceImpl;
  */
 @RestController
 public class EmployeeController {
+	
 	/*EmployeeServiceImpl instance to call the service layer corresponding method*/
 	@Autowired
 	EmployeServiceImpl employeeService;
