@@ -15,7 +15,11 @@ import com.ranjit.springboot.repository.EmplyeeRepository;
 /**
  * This is a Repository Implementation to interact with the DB.
  * 
+<<<<<<< HEAD
  * @author Ranjit Kumar Patel from bangalore.
+=======
+ * @author Ranjit Kumar Patel from bangalore..
+>>>>>>> 7823b4125ea49cb9bc5b52083d5578ca6c084646
  * @since 09/07/2020 11:00PM
  */
 @Repository
