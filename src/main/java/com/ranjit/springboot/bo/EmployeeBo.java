@@ -1,7 +1,7 @@
 package com.ranjit.springboot.bo;
 
 public class EmployeeBo {
-
+	//this is variable.
 	private String id;
 	private String name;
 	private String email;
